@@ -2,12 +2,16 @@
 
 I'm a Computer Science student at Huachiew Chalermprakiet University (HCU), passionate about software engineering and embedded systems. Currently developing innovative solutions in IoT and web applications.
 
+### 👨‍💻 About Me
+
+I am a third-year Computer Science student in the Faculty of Science and Technology at Huachiew Chalermprakiet University, passionate about software engineering and embedded systems. Currently developing innovative solutions in IoT and web applications.
+
+When I'm not coding, I enjoy exploring new technologies and building smart devices that make a real-world impact.
+
 - 🔭 I’m currently working on **Student Activity Management System** and **Smart CPR Mannequin** project
 - 🌱 I’m currently learning advanced embedded systems and full-stack development
 - 👯 I’m looking to collaborate on IoT projects and open-source software
-- 💬 Ask me about IoT, embedded systems, or software development
 - 📫 How to reach me: [Your contact info here]
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building smart devices that make a real-world impact!
 
 ## 🎯 Internship 2026
@@ -16,64 +20,90 @@ I'm seeking internship opportunities starting **August 2026** in the following r
 - Embedded Systems Engineer
 - Software Engineer
 - IoT Developer
+- Full-stack devoloper
+- R&D
 
 **Target Companies:** Delta Electronics, Logisteed
 
 I'm particularly interested in projects involving industrial automation, IoT solutions, and embedded software development.
 
-[📄 View My CV](https://your-cv-link-here) | [💼 LinkedIn](https://linkedin.com/in/your-profile)
+## 📄 Resume
 
-## 🛠️ Skills
+Want to know more about my academic background and experiences?
 
-| Category | Technologies |
-|----------|-------------|
-| **Programming Languages** | C/C++, Python, JavaScript, Java |
-| **Tools & Frameworks** | Arduino IDE, Node.js, React, Git, Docker |
-| **IoT/Embedded Systems** | Microcontrollers (Arduino, ESP32), Sensors, IoT Protocols (MQTT), PCB Design |
-| **Current Learning** | RTOS, Unit Testing, Industrial Protocols (Modbus, CAN), Advanced IoT Protocols |
+📂 Download my full resume: [View Resume](https://your-cv-link-here)
 
-## 🚀 Projects
+[📄 View My Website] () 
+
+[💼 LinkedIn](https://www.linkedin.com/in/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%99-b2713b39b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Tools & Frameworks
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### IoT/Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-00979D?style=for-the-badge&logo=MQTT&logoColor=white)
+
+## 🚀 Current Interests
+
+• Advanced IoT Protocols
+• RTOS Development
+• Industrial Automation
+• Full-Stack Web Development
+
+## 🚀 Highlighted Projects
 
 ### Smart CPR Mannequin
 ![Smart CPR Mannequin Demo](./assets/cpr-mannequin-demo.gif)
 
-**Technical Description:**  
-This IoT-enabled mannequin uses embedded systems to provide real-time feedback during CPR training. Built with Arduino microcontroller and pressure sensors, it measures compression depth and rate, providing haptic and visual feedback to trainees. The system incorporates accelerometer sensors for motion detection and LED indicators for performance visualization. Data is processed locally using C++ algorithms for immediate feedback calculation, with optional Bluetooth connectivity for mobile app integration.
+An IoT-enabled mannequin for CPR training with real-time feedback. Built with Arduino, pressure sensors, and C++ for medical-grade accuracy.
 
-**Challenges & Solutions:**  
-- **Challenge:** Accurate pressure sensing with varying user force.  
-  **Solution:** Implemented calibration algorithms and multiple sensor averaging to ensure reliable measurements within medical standards.  
-- **Challenge:** Real-time feedback without lag.  
-  **Solution:** Optimized interrupt-driven processing and efficient data filtering to maintain sub-millisecond response times.  
-- **Challenge:** Power management for portable use.  
-  **Solution:** Integrated low-power sleep modes and battery monitoring with automatic shutdown features.
-
-**Key Features:**  
-- Real-time compression depth and rate monitoring with medical-grade accuracy  
-- Multi-sensory feedback system combining LEDs, buzzers, and LCD display  
-- Bluetooth connectivity for data logging and performance analytics
+- Real-time compression depth and rate monitoring
+- Multi-sensory feedback (LEDs, buzzers, LCD)
+- Bluetooth connectivity for data logging
 
 ### Student Activity Management System
 ![Student Activity Management System Demo](./assets/activity-system-demo.gif)
 
-**Technical Description:**  
-A full-stack web application for managing university student activities and events. Developed using Node.js backend with Express framework, MongoDB for data persistence, and React frontend for responsive user interface. Implements JWT authentication for secure user management, with role-based access control for students, faculty, and administrators. The system uses RESTful APIs for data communication and incorporates real-time notifications via Socket.io for event updates.
+A full-stack web application for university event management using Node.js, MongoDB, and React.
 
-**Challenges & Solutions:**  
-- **Challenge:** Handling concurrent event registrations.  
-  **Solution:** Implemented database transactions and optimistic locking to prevent race conditions during peak registration periods.  
-- **Challenge:** Scalable user interface for mobile devices.  
-  **Solution:** Adopted responsive design principles with React components and CSS Grid/Flexbox for cross-device compatibility.  
-- **Challenge:** Secure data handling for student information.  
-  **Solution:** Integrated encryption for sensitive data and implemented comprehensive input validation and sanitization.
+- Event registration and attendance tracking
+- Real-time notifications via Socket.io
+- Role-based access control for users
 
-**Key Features:**  
-- Comprehensive event management with registration tracking and attendance monitoring  
-- Real-time notifications and calendar integration for upcoming activities  
-- Admin dashboard with analytics and reporting capabilities
+## 🏆 Certificates & Activities
 
-## 📊 GitHub Stats
+Explore my verified achievements, training, and extra-curricular activities:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pear1790&theme=default)](https://git.io/streak-stats)
+📜 View my Gallery: [View Gallery](https://your-gallery-link-here)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pear1790&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 Let's Connect!
+
+[Email](mailto:siriwimonsitasen1@gmail.com) GitHub [Line ID: 0890304422](https://line.me/ti/p/Cqf5iyvdk4) [Phone: (+66) 89-030-4422](tel:0890304422)
+
+## 🌱 Strengths & Working Style
+
+**Strengths**
+• Fast learner
+• Problem-solving mindset
+• Team player
+
+**Working Style**
+• Curious and open to new technologies
+• Organized and systematic
+• Calm and patient
+
+
