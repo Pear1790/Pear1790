@@ -11,7 +11,7 @@ When I'm not coding, I enjoy exploring new technologies and building smart devic
 - 🔭 I’m currently working on **Student Activity Management System** and **Smart CPR Mannequin** project
 - 🌱 I’m currently learning advanced embedded systems and full-stack development
 - 👯 I’m looking to collaborate on IoT projects and open-source software
-- 📫 How to reach me: [Your contact info here]
+- 📫 How to reach me: [siriwimonsitasen1@gmail.com]
 - ⚡ Fun fact: I love building smart devices that make a real-world impact!
 
 ## 🎯 Internship 2026
