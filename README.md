@@ -1,4 +1,4 @@
-| ![Profile Picture](./assets/SiRi_pic.jpg) | Hi there, I'm Sirawimon Sitasen! 👋<br/>**B.Sc. Computer Science Student**<br/>*Embedded Systems & IoT Developer* |
+| ![Profile Picture](./assets/SiRi_pic - copy.jpg) | Hi there, I'm Sirawimon Sitasen! 👋<br/>**B.Sc. Computer Science Student**<br/>*Embedded Systems & IoT Developer* |
 | --- | --- |
 
 > 3rd-year CS student 💻 \| Embedded Systems & Full-Stack Dev 🔧 \| IoT Enthusiast 🚀 \| "Building smart devices that change the world" 🌍
@@ -43,6 +43,7 @@ Interested in industrial automation, IoT systems, and embedded software developm
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7185?style=for-the-badge&logo=xampp&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -57,7 +58,6 @@ Interested in industrial automation, IoT systems, and embedded software developm
 ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7185?style=for-the-badge&logo=xampp&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
