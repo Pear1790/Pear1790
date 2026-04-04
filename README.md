@@ -131,7 +131,7 @@ https://github.com/Ileriayo/markdown-badges
 
 Want to know more about my background and experience?
 
-- 📂 [Download Resume (Google Drive)](https://your-resume-google-drive-link-here) | [PDF](https://your-pdf-link-here)
+- 📂 [Download Resume (Google Drive)](https://drive.google.com/drive/folders/1qEr4eO8itxjVgPfMhBAJKqMpPwQN_Qoz?usp=drive_link)
 - 🌐 [Portfolio Website](https://pear1790.github.io/My-portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%99-b2713b39b)
 
@@ -148,7 +148,7 @@ Want to know more about my background and experience?
 Explore my verified achievements, training, and extra-curricular activities:
 
 - 📜 [View Gallery (Portfolio)](https://pear1790.github.io/My-portfolio/)
-- 📜 [View Gallery (Google Drive Backup)](https://your-google-drive-gallery-link)
+- 📜 [View Gallery (Google Drive Backup)](https://drive.google.com/drive/folders/1u5gzTXnVmAwes4NBnArHpnaLPDfThQzL?usp=drive_link)
 
 <!-- 
 📌 UPDATE THESE LINKS:
