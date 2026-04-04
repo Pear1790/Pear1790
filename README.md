@@ -1,4 +1,4 @@
-| ![Profile Picture](./assets/SiRi_pic(1).jpg) | Hi there, I'm Sirawimon Sitasen! 👋 |<br/>**B.Sc. Computer Science Student**<br/>*Embedded Systems & IoT Developer* |
+| ![Profile Picture](./assets/SiRi_pic(1).jpg) | --- | --- | Hi there, I'm Sirawimon Sitasen! 👋 |<br/>**B.Sc. Computer Science Student**<br/>*Embedded Systems & IoT Developer* |
 | --- | --- |
 
 > 3rd-year CS student 💻 \| Embedded Systems & Full-Stack Dev 🔧 \| IoT Enthusiast 🚀 \| "Building Things that change the world" 🌍
