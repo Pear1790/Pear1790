@@ -147,8 +147,8 @@ Want to know more about my background and experience?
 
 Explore my verified achievements, training, and extra-curricular activities:
 
-- 📜 [View Gallery (Portfolio)](./assets/Resume1.png)[View Gallery (Portfolio2)](./assets/Resume2.png)
-- 📜 [View Gallery (Google Drive Backup)](https://drive.google.com/drive/folders/1u5gzTXnVmAwes4NBnArHpnaLPDfThQzL?usp=drive_link)
+- 📜 [View Gallery (Certificates)](https://drive.google.com/drive/folders/1__ytC6mmHuG8uh0afaMWIW5pMaeVG1rX?usp=drive_link)
+- 📜 [View Gallery (Activity)](https://drive.google.com/drive/folders/1WrQXadTtcFe11SWr21mQTXD75wLuIZaL?usp=drive_link))
 
 <!-- 
 📌 UPDATE THESE LINKS:
