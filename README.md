@@ -147,7 +147,7 @@ Want to know more about my background and experience?
 
 Explore my verified achievements, training, and extra-curricular activities:
 
-- 📜 [View Gallery (Portfolio)](https://pear1790.github.io/My-portfolio/)
+- 📜 [View Gallery (Portfolio)](./assets/Resume1.png)(./assets/Resume2.png)
 - 📜 [View Gallery (Google Drive Backup)](https://drive.google.com/drive/folders/1u5gzTXnVmAwes4NBnArHpnaLPDfThQzL?usp=drive_link)
 
 <!-- 
