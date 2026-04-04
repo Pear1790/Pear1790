@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Siriwimon sitasen 👋
 
 I'm a Computer Science student at Huachiew Chalermprakiet University (HCU), passionate about software engineering and embedded systems. Currently developing innovative solutions in IoT and web applications.
 
