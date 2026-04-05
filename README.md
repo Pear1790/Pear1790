@@ -160,7 +160,7 @@ Explore my verified achievements, training, and extra-curricular activities:
 
 ## 📫 Let's Connect!
 
-[Email](mailto:siriwimonsitasen1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%99-b2713b39b) · [Line](https://line.me/ti/p/Cqf5iyvdk4) · [Phone: (+66) 89-030-4422](tel:0890304422)
+[Email](mailto:siriwimonsitasen1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%99-b2713b39b) · [Line](https://line.me/ti/p/Cqf5iyvdk4) · [Phone(1): (+66) 89-030-4422](0890304422)[Phone(2): (+66) 88-663-4466](tel:0886634466)
 
 ---
 
