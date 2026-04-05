@@ -5,14 +5,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a cooperative and passionate developer who loves building real-world solutions through embedded systems, IoT integration, and full-stack web applications. I enjoy solving problems systematically and collaborating with teams.
 
-When I'm not coding, I'm exploring new technologies or working on hardware projects.
+I am a 3rd-year Computer Science student at Huachiew Chalermprakiet University with a strong passion for bridging the gap between hardware and software. I enjoy building practical solutions, from IoT-enabled devices to structured desktop and web applications.
+
+I focus on writing clean code and solving problems systematically, whether it's monitoring system integrity or tracking health metrics. I’m always eager to learn and adapt to new technologies in the ever-evolving tech landscape.
 
 - 🔭 Currently working on **Smart CPR Mannequin** (IoT training device) and **Student Activity Management System** (web platform)
-- 🌱 Learning advanced RTOS, embedded Linux, and cloud IoT platforms
-- 👯 Looking to collaborate on IoT and open-source projects
-- ⚡ Fun fact: I love turning sensor data into meaningful feedback systems!
+- 🌱 Learning Embedded Systems (esp32/Arduino), cloud IoT platforms and Full-stack web development.
+- 👯 Looking to collaborate on Embedded Systems, IoT projects, and Open-source software.
+- 🏆 Goal : My goal is to leverage IoT and software engineering to develop impactful systems for a better future.
+- ⚡ Fun fact: Committed to building innovative solutions that address real-world challenges and improve lives.
 
 ### 🎯 Internship 2026
 
@@ -116,7 +118,7 @@ https://github.com/Ileriayo/markdown-badges
 - **Health Analytics:** Automates the calculation of critical health metrics, including BMI, BMR, and TDEE, with interactive weight-trend visualization.
 - **System Architecture:** Built using MVC Architecture and Design Patterns (Singleton, Repository) to ensure scalable and maintainable code.
 - **Secure Data Management:** Features an encrypted user authentication system and a structured SQLite database for food and exercise logging.
-- **Tech Stack:** Java (JavaFX), Maven, SQLite, and BCrypt for security.
+- **Tech Stack:** Java , SQLite , HTML , CSS.
 
 <!-- 
 📌 ADD MORE PROJECTS HERE (following same format):
