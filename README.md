@@ -85,31 +85,38 @@ https://github.com/Ileriayo/markdown-badges
 
 ## 🚀 Highlighted Projects
 
-### 🔧 Smart CPR Mannequin
+### 🔧 Smart CPR Training Manikin (working...)
 *IoT-enabled CPR training device with real-time feedback*
 
-- ◦ Real-time compression depth and rate monitoring
-- ◦ Multi-sensory feedback (LEDs, buzzers, LCD displays)
-- ◦ Bluetooth connectivity for mobile data logging
-- ◦ Built with Arduino, C++, and pressure sensors
+- ◦ Real-time Monitoring: Developed a precision sensing system to monitor chest compression depth and rate in real-time.
+- ◦ IoT Connectivity: Integrated ESP32 to transmit training data to a web-based dashboard for performance logging and analysis.
+- ◦ Multi-Sensory Feedback: Utilized LEDs and buzzers to provide immediate corrective guidance to the trainee.
+- ◦ Tech Stack: C/C++, Arduino IDE, ESP32, HTML/CSS, and JavaScript.
 
 <!-- 📌 TODO: ADD LINKS
 - [View Repository](link-to-your-repo)
 - [Watch Demo](youtube-link-if-available)
 -->
 
-### 📱 Student Activity Management System
-*Full-stack web platform for university event management*
+### 📱 HashLine - File Integrity Monitor (FIM)
+*Advanced cybersecurity tool for real-time file system auditing*
 
-- ◦ Event registration and real-time attendance tracking
-- ◦ Real-time notifications using Socket.io
-- ◦ Role-based access control (student/staff/admin)
-- ◦ Built with Node.js, MongoDB, and React
-
+- ◦ Integrity Auditing: Detects unauthorized file modifications (Changed, Added, or Removed) by comparing SHA-512 cryptographic hashes against a secure baseline.
+- ◦ Real-time Surveillance: Enhanced with Multithreading and the Watchdog library to provide instantaneous alerts upon file system interference.
+- ◦ Modern Interface: Refactored the original UI using CustomTkinter for a professional and intuitive user experience.
+- ◦ Tech Stack: Python, hashlib, watchdog, and threading.
 <!-- 📌 TODO: ADD LINKS
 - [View Repository](link-to-your-repo)
 - [Live Demo](live-website-link)
 -->
+
+### 🏃 LIFE CAL System
+*Comprehensive health tracking and nutritional management desktop platform*
+
+- ◦ Health Analytics: Automates the calculation of critical health metrics, including BMI, BMR, and TDEE, with interactive weight-trend visualization.
+- ◦ System Architecture: Built using MVC Architecture and Design Patterns (Singleton, Repository) to ensure scalable and maintainable code.
+- ◦ Secure Data Management: Features an encrypted user authentication system and a structured SQLite database for food and exercise logging.
+- ◦ Tech Stack: Java (JavaFX), Maven, SQLite, and BCrypt for security.
 
 <!-- 
 📌 ADD MORE PROJECTS HERE (following same format):
