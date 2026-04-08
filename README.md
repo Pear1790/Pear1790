@@ -95,7 +95,6 @@ https://github.com/Ileriayo/markdown-badges
 - **Multi-Sensory Feedback:** Utilized LEDs and buzzers to provide immediate corrective guidance to the trainee.
 - **Tech Stack:** C/C++, Arduino IDE, ESP32, HTML/CSS, and JavaScript.
 
-![Example](./assets/FIM_picture.png)
 
 <!-- 📌 TODO: ADD LINKS
 - [View Repository](link-to-your-repo)
@@ -109,6 +108,9 @@ https://github.com/Ileriayo/markdown-badges
 - **Real-time Surveillance:** Enhanced with Multithreading and the Watchdog library to provide instantaneous alerts upon file system interference.
 - **Modern Interface:** Refactored the original UI using CustomTkinter for a professional and intuitive user experience.
 - **Tech Stack:** Python, hashlib, watchdog, and threading.
+
+![Example](./assets/FIM_picture.png)
+
 <!-- 📌 TODO: ADD LINKS
 - [View Repository](link-to-your-repo)
 - [Live Demo](live-website-link)
