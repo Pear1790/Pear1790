@@ -100,7 +100,7 @@ https://github.com/Ileriayo/markdown-badges
 - [Watch Demo](youtube-link-if-available)
 -->
 
-### 📱 HashLine - File Integrity Monitor (FIM)
+### 📱 [HashLine - File Integrity Monitor (FIM)](https://github.com/Pear1790/File-Integrity-Monitor-master-FIM-.git)
 *Advanced cybersecurity tool for real-time file system auditing*
 
 - **Integrity Auditing:** Detects unauthorized file modifications (Changed, Added, or Removed) by comparing SHA-512 cryptographic hashes against a secure baseline.
@@ -112,7 +112,7 @@ https://github.com/Ileriayo/markdown-badges
 - [Live Demo](live-website-link)
 -->
 
-### 🏃 LIFE CAL System
+### 🏃 [LIFE CAL System](https://github.com/Pear1790/Life-Cal.git)
 *Comprehensive health tracking and nutritional management desktop platform*
 
 - **Health Analytics:** Automates the calculation of critical health metrics, including BMI, BMR, and TDEE, with interactive weight-trend visualization.
