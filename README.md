@@ -95,7 +95,7 @@ https://github.com/Ileriayo/markdown-badges
 - **Multi-Sensory Feedback:** Utilized LEDs and buzzers to provide immediate corrective guidance to the trainee.
 - **Tech Stack:** C/C++, Arduino IDE, ESP32, HTML/CSS, and JavaScript.
 
-[Example](./assets/FIM_picture.png)
+![Example](./assets/FIM_picture.png)
 
 <!-- 📌 TODO: ADD LINKS
 - [View Repository](link-to-your-repo)
