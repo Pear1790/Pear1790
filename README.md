@@ -12,7 +12,7 @@ I focus on writing clean code and solving problems systematically, whether it's 
 
 - 🔭 Currently working on **Smart CPR Mannequin** (IoT training device) and **Student Activity Management System** (web platform)
 - 🌱 Learning Embedded Systems (esp32/Arduino), cloud IoT platforms and Full-stack web development.
-- 👯 Looking to collaborate on Embedded Systems, IoT projects, and Open-source software.
+- 👯 Looking to collaborate on Embedded Systems, IoT projects, and Software.
 - 🏆 Goal : My goal is to leverage IoT and software engineering to develop impactful systems for a better future.
 - ⚡ Fun fact: Committed to building innovative solutions that address real-world challenges and improve lives.
 
@@ -25,9 +25,7 @@ Seeking internship opportunities starting **August 2026**:
 - Full-stack Developer
 - R&D
 
-**Target companies:** Delta Electronics
-
-Interested in industrial automation, IoT systems, and embedded software development.
+Interested in industrial automation, IoT systems, embedded software development, and software engineer.
 
 ---
 
