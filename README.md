@@ -25,7 +25,7 @@ Seeking internship opportunities starting **August 2026**:
 - Full-stack Developer
 - R&D
 
-Interested in industrial automation, IoT systems, embedded software development, and software engineer.
+Interested in industrial automation, embedded software development,Tool Application development, and software engineer.
 
 ---
 
