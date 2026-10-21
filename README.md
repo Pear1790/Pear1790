@@ -18,9 +18,10 @@ Embedded Systems · IoT · Full-Stack Development
 
 I'm a Computer Science student who likes working where hardware meets software — from ESP32 sensor devices to the web dashboards and desktop apps that use their data. I care about clean, well-documented code and solving problems step by step.
 
-- 🔭 **Now building:** Smart CPR Training Manikin (IoT) and ActivityFlow, a student activity management system
-- 🌱 **Learning:** ESP32/Arduino, cloud IoT platforms, full-stack web development
-- 🎯 **Looking for:** <!-- TODO: update — e.g. "internship / full-time roles from <month year>" --> roles in Embedded Systems, IoT, Software Engineering, Full-Stack, or R&D
+- 💼 **Now:** Web Developer Intern at **Pantavanij**
+- 🔭 **Building:** Smart CPR Training Manikin (IoT) and ActivityFlow, a student activity management system
+- 🌱 **Exploring:** infrastructure & DevOps (Linux, Docker, CI/CD, cloud), and game development on the side
+- 🎯 **Open to:** roles in Web/Software Engineering, Infrastructure/DevOps, and Embedded/IoT after graduating in 2027
 
 ---
 
