@@ -20,8 +20,8 @@ I'm a Computer Science student who likes working where hardware meets software �
 
 - 💼 **Now:** Web Developer Intern at **Pantavanij**
 - 🔭 **Building:** Smart CPR Training Manikin (IoT) and ActivityFlow, a student activity management system
-- 🌱 **Exploring:** infrastructure & DevOps (Linux, Docker, CI/CD, cloud), and game development on the side
-- 🎯 **Open to:** roles in Web/Software Engineering, Infrastructure/DevOps, and Embedded/IoT after graduating in 2027
+- 🌱 **Learning:** ESP32/Arduino, cloud IoT platforms, full-stack web development
+- 🎯 **Open to:** roles in Web/Software Engineering, Full-Stack, Embedded/IoT, and R&D after graduating in 2027
 
 ---
 
